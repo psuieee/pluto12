@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name MX1A-11NW)(type Legacy)(uri "${KIPRJMOD}/Libraries/Keyswitch - MX1A-11NW/MX1A-11NW.mod")(options "")(descr ""))
+)
