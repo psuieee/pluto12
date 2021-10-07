@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name MX1A-11NW)(type Legacy)(uri "${KIPRJMOD}/Libraries/Keyswitch - MX1A-11NW/MX1A-11NW.mod")(options "")(descr ""))
+  (lib (name Sparkfun-Pro-Micro)(type KiCad)(uri ${KIPRJMOD}/Libraries/Pro-Micro/Sparkfun-Pro-Micro.pretty)(options "")(descr ""))
 )
