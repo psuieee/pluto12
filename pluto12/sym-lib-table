@@ -1,5 +1,6 @@
 (sym_lib_table
-  (lib (name MX1A-11NW)(type Legacy)(uri "${KIPRJMOD}/Libraries/Keyswitch - MX1A-11NW/MX1A-11NW.lib")(options "")(descr ""))
-  (lib (name Sparkfun-Pro-Micro)(type Legacy)(uri ${KIPRJMOD}/Libraries/Pro-Micro/Sparkfun-Pro-Micro.lib)(options "")(descr ""))
-  (lib (name pluto12-rescue)(type Legacy)(uri ${KIPRJMOD}/pluto12-rescue.lib)(options "")(descr ""))
+  (lib (name Sparkfun-Pro-Micro)(type Legacy)(uri ./Libraries/Pro-Micro/Sparkfun-Pro-Micro.lib)(options "")(descr ""))
+  (lib (name Diode)(type Legacy)(uri ./Libraries/Diode/Diode.lib)(options "")(descr ""))
+  (lib (name Pushbutton)(type Legacy)(uri ./Libraries/Pushbutton/Pushbutton.lib)(options "")(descr ""))
+  (lib (name Keyswitch)(type Legacy)(uri "./Libraries/Keyswitch - Cherry MX/Keyswitch.lib")(options "")(descr ""))
 )

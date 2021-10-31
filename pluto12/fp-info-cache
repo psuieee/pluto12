@@ -1,4 +1,4 @@
-19216075156900491
+19268475500935020
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -50036,6 +50036,13 @@ Diotec rectifier diode bridge
 4
 4
 Diode_THT
+Diode_Bridge_Comchip_SCVB-L
+Three phase, Bridge, Rectifier, https://www.comchiptech.com/admin/files/product/SC35VB80S-G%20Thru506369.%20SC35VB160S-G%20RevB.pdf
+diode module
+0
+5
+5
+Diode_THT
 Diode_Bridge_DIP-4_W5.08mm_P2.54mm
 4-lead dip package for diode bridges, row spacing 5.08mm, pin-spacing 2.54mm, see http://www.vishay.com/docs/88898/b2m.pdf
 DIL DIP PDIP 5.08mm 2.54
@@ -55089,6 +55096,216 @@ solder jumper open
 0
 5
 3
+Keyswitches
+SW_Cherry_MX_1.00u_PCB
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+2
+2
+Keyswitches
+SW_Cherry_MX_1.00u_PCB_centered
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+2
+2
+Keyswitches
+SW_Cherry_MX_1.00u_Plate
+Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u plate
+0
+2
+2
+Keyswitches
+SW_Cherry_MX_1.25u_PCB
+Cherry MX keyswitch, 1.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.25u PCB
+0
+2
+2
+Keyswitches
+SW_Cherry_MX_1.25u_Plate
+Cherry MX keyswitch, 1.25u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.25u plate
+0
+2
+2
+Keyswitches
+SW_Cherry_MX_1.50u_PCB
+Cherry MX keyswitch, 1.50u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.50u PCB
+0
+2
+2
+Keyswitches
+SW_Cherry_MX_1.50u_Plate
+Cherry MX keyswitch, 1.50u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.50u plate
+0
+2
+2
+Keyswitches
+SW_Cherry_MX_1.75u_PCB
+Cherry MX keyswitch, 1.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.75u PCB
+0
+2
+2
+Keyswitches
+SW_Cherry_MX_1.75u_Plate
+Cherry MX keyswitch, 1.75u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.75u plate
+0
+2
+2
+Keyswitches
+SW_Cherry_MX_2.00u_PCB
+Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u PCB
+0
+2
+2
+Keyswitches
+SW_Cherry_MX_2.00u_Plate
+Cherry MX keyswitch, 2.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u plate
+0
+2
+2
+Keyswitches
+SW_Cherry_MX_2.00u_Vertical_PCB
+Cherry MX keyswitch, 2.00u, vertical, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u vertical PCB
+0
+2
+2
+Keyswitches
+SW_Cherry_MX_2.00u_Vertical_Plate
+Cherry MX keyswitch, 2.00u, vertical, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u vertical plate
+0
+2
+2
+Keyswitches
+SW_Cherry_MX_2.25u_PCB
+Cherry MX keyswitch, 2.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.25u PCB
+0
+2
+2
+Keyswitches
+SW_Cherry_MX_2.25u_Plate
+Cherry MX keyswitch, 2.25u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.25u plate
+0
+2
+2
+Keyswitches
+SW_Cherry_MX_2.75u_PCB
+Cherry MX keyswitch, 2.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.75u PCB
+0
+2
+2
+Keyswitches
+SW_Cherry_MX_2.75u_Plate
+Cherry MX keyswitch, 2.75u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.75u plate
+0
+2
+2
+Keyswitches
+SW_Cherry_MX_6.25u_PCB
+Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 6.25u PCB
+0
+2
+2
+Keyswitches
+SW_Cherry_MX_6.25u_Plate
+Cherry MX keyswitch, 6.25u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 6.25u plate
+0
+2
+2
+Keyswitches
+SW_Cherry_MX_ISOEnter_PCB
+Cherry MX keyswitch, ISO Enter, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch ISO enter PCB
+0
+2
+2
+Keyswitches
+SW_Cherry_MX_ISOEnter_Plate
+Cherry MX keyswitch, ISO Enter, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch ISO enter plate
+0
+2
+2
+Keyswitches
+SW_Matias_1.00u
+Matias/ALPS keyswitch, 1.00u, http://matias.ca/switches/
+Matias ALPS keyswitch 1.00u
+0
+2
+2
+Keyswitches
+SW_Matias_1.25u
+Matias/ALPS keyswitch, 1.25u, http://matias.ca/switches/
+Matias ALPS keyswitch 1.25u
+0
+2
+2
+Keyswitches
+SW_Matias_1.50u
+Matias/ALPS keyswitch, 1.50u, http://matias.ca/switches/
+Matias ALPS keyswitch 1.50u
+0
+2
+2
+Keyswitches
+SW_Matias_1.75u
+Matias/ALPS keyswitch, 1.75u, http://matias.ca/switches/
+Matias ALPS keyswitch 1.75u
+0
+2
+2
+Keyswitches
+SW_Matias_2.00u
+Matias/ALPS keyswitch, 2.00u, http://matias.ca/switches/
+Matias ALPS keyswitch 2.00u
+0
+2
+2
+Keyswitches
+SW_Matias_2.25u
+Matias/ALPS keyswitch, 2.25u, http://matias.ca/switches/
+Matias ALPS keyswitch 2.25u
+0
+2
+2
+Keyswitches
+SW_Matias_2.75u
+Matias/ALPS keyswitch, 2.75u, http://matias.ca/switches/
+Matias ALPS keyswitch 2.75u
+0
+2
+2
+Keyswitches
+SW_Matias_6.25u
+Matias/ALPS keyswitch, 6.25u, http://matias.ca/switches/
+Matias ALPS keyswitch 6.25u
+0
+2
+2
+Keyswitches
+SW_Matias_ISOEnter
+Matias/ALPS keyswitch, ISO Enter, http://matias.ca/switches/
+Matias ALPS keyswitch ISO enter
+0
+2
+2
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -56209,13 +56426,6 @@ Yellow 5381 Series LED
 0
 2
 2
-MX1A-11NW
-MX1A11NW
-MX1A-11NW-3
-Switch
-0
-5
-5
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -73485,6 +73695,13 @@ Potentiometer vertical Vishay T73YP
 0
 3
 3
+Pushbutton_SMD
+SW_SPST_EVPBF
+Light Touch Switch
+
+0
+4
+2
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
@@ -76770,11 +76987,11 @@ https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-24901
 48
 Sparkfun-Pro-Micro
 Pro-Micro
-
-
+Default Sparkfun layout
+pro, micro, sparkfun
 0
-0
-0
+24
+24
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking

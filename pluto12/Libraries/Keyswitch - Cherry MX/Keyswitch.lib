@@ -1,0 +1,22 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Generic_Keyswitch
+#
+DEF Generic_Keyswitch S 0 30 Y Y 1 F N
+F0 "S" 350 250 50 H V C CNN
+F1 "Generic_Keyswitch" 350 150 50 H V C CNN
+F2 "" 750 100 50 H I L CNN
+F3 "" 750 0 50 H I L CNN
+F4 "Keyswitch symbol for pluto12" 750 -100 50 H I L CNN "Description"
+DRAW
+T 0 300 50 50 0 0 0 SW Normal 0 L C
+P 2 0 0 0 400 -50 500 -50 N
+P 3 0 0 0 200 -50 300 -50 400 0 N
+P 5 0 1 6 200 100 500 100 500 -200 200 -200 200 100 N
+X ~ 1 0 -50 200 R 50 50 0 0 P
+X ~ 2 700 -50 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library
