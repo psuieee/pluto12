@@ -1,6 +1,6 @@
 (sym_lib_table
-  (lib (name Sparkfun-Pro-Micro)(type Legacy)(uri ./Libraries/Pro-Micro/Sparkfun-Pro-Micro.lib)(options "")(descr ""))
-  (lib (name Diode)(type Legacy)(uri ./Libraries/Diode/Diode.lib)(options "")(descr ""))
-  (lib (name Pushbutton)(type Legacy)(uri ./Libraries/Pushbutton/Pushbutton.lib)(options "")(descr ""))
-  (lib (name Keyswitch)(type Legacy)(uri "./Libraries/Keyswitch - Cherry MX/Keyswitch.lib")(options "")(descr ""))
+  (lib (name Sparkfun-Pro-Micro)(type Legacy)(uri ${KIPRJMOD}/Libraries/Pro-Micro/Sparkfun-Pro-Micro.lib)(options "")(descr ""))
+  (lib (name Diode)(type Legacy)(uri ${KIPRJMOD}/Libraries/Diode/Diode.lib)(options "")(descr ""))
+  (lib (name Pushbutton)(type Legacy)(uri ${KIPRJMOD}/Libraries/Pushbutton/Pushbutton.lib)(options "")(descr ""))
+  (lib (name Keyswitch)(type Legacy)(uri "${KIPRJMOD}/Libraries/Keyswitch - Cherry MX/Keyswitch.lib")(options "")(descr ""))
 )
