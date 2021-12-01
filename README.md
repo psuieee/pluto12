@@ -1,5 +1,3 @@
-# pluto12: The compact and inexpensive mechanical macropad
+# pluto12 Macropad
 
-The pluto12 is (as the name suggests) a small, 12-key macropad used to aid in everyday computing tasks with macros. Using the QMK firmware, it is endlessly customizable as well as being open-source!
-
-This project is currently in development; initial alpha/beta releases are untested and only consist of Gerber files.
+The pluto12 is a 4x3 macropad designed for use in the Penn State IEEE Student Chapter's [2021-22 workshop series](https://github.com/psuieee/projects2021). Designed by the 2021-22 Penn State IEEE Projects Committee.
